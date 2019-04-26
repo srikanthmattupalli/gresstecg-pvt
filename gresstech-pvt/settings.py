@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Firstpython.urls'
+ROOT_URLCONF = 'gresstech-pvt.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Firstpython.wsgi.application'
+WSGI_APPLICATION = 'gresstech-pvt.wsgi.application'
 
 
 # Database
